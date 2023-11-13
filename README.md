@@ -1,4 +1,4 @@
-# Experiment--02-Implementation-of-combinational-logic
+# Experiment-02-Implementation-of-combinational-logic
 ## DATE :
 ## AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
