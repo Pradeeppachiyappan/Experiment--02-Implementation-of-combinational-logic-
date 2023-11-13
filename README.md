@@ -1,7 +1,5 @@
 # Experiment--02-Implementation-of-combinational-logic
 ## DATE :
-Implementation of combinational logic gates.
- 
 ## AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
 
